@@ -5,5 +5,5 @@ This is basically an modified PosterBoard.app with an different bundle id and th
 
 Treat this as a cool PoC. doesn't really have much use on stock iOS.
 
-Known Issue: (At least on my end)
-- longer respring times on my iPhone 12 on iOS 18.3, not sure why but your milage may vary.
+Known Issue:
+- long respring times on my iPhone 12 on iOS 18.3, not sure why but your milage may vary.
